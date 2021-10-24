@@ -8,3 +8,11 @@ una vez que tenemos el modelo hecho, para exportarlo usamos la [ultima linea que
 usuario poir ejemplo  De esta forma, el resto de la app va a poder usar ese modelo
 
 como ? con el const usuario = requiere('productos')]
+
+Agregué más logica para que muestre usuario y sus datos cuando imprime un mensaje. 
+Ahora estoy tratando de que me guarde en mongo todos los mensajes enviados con su id, fecha y el usuario qeu lo generó.
+LISTOOOOOO, ahora ya genere otro modelo, el de mensajes y me esta guardando perfectamente todod en mongo.
+Tal y como esta el repositorio al 24 de octubre, eso es lo que hay.
+Ahora, tendria que setear bien que mensajes muestra, como y cuando.
+Aca hay varios cheats para el uso del comando emit del socket
+https://socket.io/docs/v4/emit-cheatsheet/

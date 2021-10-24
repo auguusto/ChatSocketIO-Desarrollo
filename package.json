@@ -1,0 +1,17 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "ensayo chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"lakñjsfd\""
+  },
+  "author": "augusto",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "socket.io": "^4.1.3"
+  }
+}

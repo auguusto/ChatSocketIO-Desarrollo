@@ -1,0 +1,10 @@
+mongoose tiene un m[etodo llamado connect donde le apsamos la url donde se encuentra nuestra base de datos y mediante un callback nos permite conectarnos y empezar a ejecutar toda la aplicacion
+siempre nos interesa que la base est[e corriendo primero.  siemrpe correrla en una termina a parte
+]]
+
+
+
+una vez que tenemos el modelo hecho, para exportarlo usamos la [ultima linea que vemos en 
+usuario poir ejemplo  De esta forma, el resto de la app va a poder usar ese modelo
+
+como ? con el const usuario = requiere('productos')]
